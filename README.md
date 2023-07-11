@@ -8,3 +8,4 @@
 this app allows the user to check their work day and save things to their local storage 
 
 ## links 
+https://github.com/AlexWatabe9/Work-Day-Scheduler-
